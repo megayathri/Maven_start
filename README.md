@@ -1,2 +1,2 @@
-# Maven_start
+# Maven_quick_start
 Sample project
